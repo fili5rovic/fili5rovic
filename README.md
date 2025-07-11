@@ -16,9 +16,6 @@
   <a href="https://github.com/fili5rovic/OS1-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=OS1-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_radius=10&hide_border=true" alt="OS1 Project" />
   </a>
-</p>
-
-<p>
   <a href="https://github.com/fili5rovic/Database_Manager_GUI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=Database_Manager_GUI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_radius=10&hide_border=true" alt="Database_Manager_GUI" />
   </a>
@@ -26,7 +23,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=Database-Manager-Console-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_radius=10&hide_border=true" alt="Database-Manager-Console-App" />
   </a>
 </p>
-
 
 ---
 
