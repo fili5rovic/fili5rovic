@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Filip!
 
-<!--
-**fili5rovic/fili5rovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student passionate about.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- **[CodeGalaxy](https://github.com/fili5rovic/CodeGalaxy)**  
+  Custom Java IDE with LSP, Git, and a modern JavaFX UI.
+
+- **[OS1-Project](https://github.com/fili5rovic/OS1-Project)**  
+  Educational RISC-V kernel in C++/ASM: threads, semaphores, preemptive multitasking.
+
+- **[Database_Manager_GUI](https://github.com/fili5rovic/Database_Manager_GUI)**  
+  JavaFX app for running SQL queries and managing tables with a clean interface.
+
+- **[Database-Manager-Console-App](https://github.com/fili5rovic/Database-Manager-Console-App)**  
+  Lightweight C++ console tool for database operations.
+
+---
+
+<details>
+  <summary><b>🧰 Technologies</b></summary>
+  
+  Java, C++, Python, JavaFX, SQL, TypeScript, JavaScript, Assembly, REST, JNI, MySQL, Git, CSS
+</details>
