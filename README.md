@@ -1,23 +1,32 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
 
 <p>
-  Welcome to my page! <br>
-  I'm Filip, a software engineer from 
+  I'm <b>Filip</b>, a software engineer from 
   <img src="https://cdn-icons-png.flaticon.com/512/197/197602.png" width="13"/> <b>Belgrade, Serbia</b>.
+</p>
 
-## Featured Projects
+---
 
-- **[CodeGalaxy](https://github.com/fili5rovic/CodeGalaxy)**  
-  A modern Java IDE built with JavaFX — featuring LSP code completion, Git integration, and a customizable UI.
+## Highlighted projects
 
-- **[OS1-Project](https://github.com/fili5rovic/OS1-Project)**  
-  Fully functional RISC-V kernel (C++/ASM) with multithreading, semaphores, and preemptive multitasking.
+<p>
+  <a href="https://github.com/fili5rovic/CodeGalaxy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=CodeGalaxy&show_icons=true&line_height=27&title_color=00ffff&text_color=8a919a&icon_color=00ffff&bg_color=22272e&border_radius=10&hide_border=true" alt="CodeGalaxy" />
+  </a>
+  <a href="https://github.com/fili5rovic/OS1-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=OS1-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_radius=10&hide_border=true" alt="OS1 Project" />
+  </a>
+</p>
 
-- **[Database_Manager_GUI](https://github.com/fili5rovic/Database_Manager_GUI)**  
-  JavaFX desktop app for managing SQL databases with a clean and user-friendly interface.
+<p>
+  <a href="https://github.com/fili5rovic/Database_Manager_GUI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=Database_Manager_GUI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_radius=10&hide_border=true" alt="Database_Manager_GUI" />
+  </a>
+  <a href="https://github.com/fili5rovic/Database-Manager-Console-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=Database-Manager-Console-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_radius=10&hide_border=true" alt="Database-Manager-Console-App" />
+  </a>
+</p>
 
-- **[Database-Manager-Console-App](https://github.com/fili5rovic/Database-Manager-Console-App)**  
-  Lightweight C++ command-line tool for efficient database management.
 
 ---
 
