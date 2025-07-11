@@ -1,4 +1,4 @@
-<h1>Welcome to my page.</h1>
+<h1>Welcome</h1>
 
 <p>
   I'm <b>Filip</b>, a software engineer from <b>Belgrade, Serbia</b>.
