@@ -20,7 +20,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=Database_Manager_GUI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_radius=10&hide_border=true" alt="Database_Manager_GUI" />
   </a>
   <a href="https://github.com/fili5rovic/Database-Manager-Console-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=Database-Manager-Console-App&theme=radical" alt="Database-Manager-Console-App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=Database-Manager-Console-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_radius=10&hide_border=true" alt="Database-Manager-Console-App" />
   </a>
 </p>
 
