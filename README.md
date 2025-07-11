@@ -1,8 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
+<h1>Welcome to my page.</h1>
 
 <p>
-  I'm <b>Filip</b>, a software engineer from 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197602.png" width="13"/> <b>Belgrade, Serbia</b>.
+  I'm <b>Filip</b>, a software engineer from <b>Belgrade, Serbia</b>.
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197602.png" width="13"/> 
 </p>
 
 ---
@@ -14,13 +14,13 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=CodeGalaxy&show_icons=true&line_height=27&title_color=00ffff&text_color=8a919a&icon_color=00ffff&bg_color=22272e&border_radius=10&hide_border=true" alt="CodeGalaxy" />
   </a>
   <a href="https://github.com/fili5rovic/OS1-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=OS1-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_radius=10&hide_border=true" alt="OS1 Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=OS1-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8e9091&icon_color=6aa6f8&bg_color=22272e&border_radius=10&hide_border=true" alt="OS1 Project" />
   </a>
   <a href="https://github.com/fili5rovic/Database_Manager_GUI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=Database_Manager_GUI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_radius=10&hide_border=true" alt="Database_Manager_GUI" />
   </a>
   <a href="https://github.com/fili5rovic/Database-Manager-Console-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=Database-Manager-Console-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_radius=10&hide_border=true" alt="Database-Manager-Console-App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=Database-Manager-Console-App&theme=radical" alt="Database-Manager-Console-App" />
   </a>
 </p>
 
