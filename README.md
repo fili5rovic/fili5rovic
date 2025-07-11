@@ -5,8 +5,18 @@
   <img src="https://cdn-icons-png.flaticon.com/512/197/197602.png" width="13"/> 
 </p>
 
-<h2 align = center>What I'm proud of</h2>
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/filip-petrovi%C4%87/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square">
+  </a>
+  
+  <a href="mailto:fili5rovic@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square">
+  </a>
+</p>
 
+<h2 align = center>What I'm proud of</h2>
 <p align = center>
   <a href="https://github.com/fili5rovic/CodeGalaxy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=CodeGalaxy&show_icons=true&line_height=27&title_color=00ffff&text_color=8a919a&icon_color=00ffff&bg_color=22272e&border_radius=10&hide_border=true" alt="CodeGalaxy" />
@@ -21,10 +31,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=Database-Manager-Console-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&border_radius=10&hide_border=true" alt="Database-Manager-Console-App" />
   </a>
 </p>
-
----
-
-<h3 align=center>Languages</h3>
+<h2 align=center>Languages</h2>
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
