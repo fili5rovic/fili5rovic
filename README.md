@@ -1,13 +1,13 @@
-<h1>Welcome</h1>
+<h1 align=center>Welcome</h1>
 
-<p>
+<p align=center>
   I'm <b>Filip</b>, a software engineer from <b>Belgrade, Serbia</b>.
   <img src="https://cdn-icons-png.flaticon.com/512/197/197602.png" width="13"/> 
 </p>
 
-## My projects
+<h2 align = center>What I'm proud of</h2>
 
-<p>
+<p align = center>
   <a href="https://github.com/fili5rovic/CodeGalaxy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=CodeGalaxy&show_icons=true&line_height=27&title_color=00ffff&text_color=8a919a&icon_color=00ffff&bg_color=22272e&border_radius=10&hide_border=true" alt="CodeGalaxy" />
   </a>
@@ -24,7 +24,7 @@
 
 ---
 
-<h3>Languages</h3>
+<h3 align=center>Languages</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
