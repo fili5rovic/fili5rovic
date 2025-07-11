@@ -5,9 +5,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/197/197602.png" width="13"/> 
 </p>
 
----
-
-## Highlighted projects
+## My projects
 
 <p>
   <a href="https://github.com/fili5rovic/CodeGalaxy">
