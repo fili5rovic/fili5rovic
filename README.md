@@ -1,7 +1,7 @@
 <h1 align=center>Welcome</h1>
 
 <p align=center>
-  I'm <b>Filip</b>, a software engineer from <b>Belgrade, Serbia</b>.
+  I'm <b>Filip</b>, a software engineering student from <b>Belgrade, Serbia</b>.
   <img src="https://cdn-icons-png.flaticon.com/512/197/197602.png" width="13"/> 
 </p>
 
