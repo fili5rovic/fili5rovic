@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<h2 align = center>What I'm proud of</h2>
+<h2 align = center>What I'm most proud of</h2>
 <p align = center>
   <a href="https://github.com/fili5rovic/CodeGalaxy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fili5rovic&repo=CodeGalaxy&show_icons=true&line_height=27&title_color=00ffff&text_color=8a919a&icon_color=00ffff&bg_color=22272e&border_radius=10&hide_border=true" alt="CodeGalaxy" />
